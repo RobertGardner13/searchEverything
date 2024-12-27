@@ -1,0 +1,69 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #f0f8ff; /* Initial light blue background */
+  color: #333;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+  padding: 20px 0;
+  background-color: #333;
+  color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.title {
+  margin: 0;
+  font-size: 2.5em;
+  font-weight: 600;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.text {
+  font-size: 1.2em;
+  line-height: 1.8;
+  margin: 20px 0;
+  color: #444;
+}
+
+button {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  font-size: 1.2em;
+  font-weight: 600;
+  color: #fff;
+  background-color: #ff7eb3;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  background-color: #ff5680;
+  transform: scale(1.1);
+}
+
+main {
+  text-align: center;
+}
+
+.content-container {
+  background-color: #fff; /* White background for the container */
+  padding: 20px; /* Adds space inside the container */
+  margin: 20px auto; /* Centers the container and adds space around it */
+  border: 2px solid #ddd; /* Light gray border */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adds shadow for separation */
+  max-width: 800px; /* Limits the width of the container */
+}
+
+
+/* _j0B_S34rch1ng */
+

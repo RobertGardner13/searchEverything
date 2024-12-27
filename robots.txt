@@ -1,0 +1,8 @@
+Part 4
+
+The robots have the last part of the flag for you here: 0037}
+
+
+<!--- byuctf{g00d -->
+/* _j0B_S34rch1ng */ 
+// _r0b0t_
